@@ -2,7 +2,7 @@
 
 As part of a partnership with Ubisoft and Galilei, the proposed mandate was based on the integration of artificial intelligence (AI) into an environment using virtual reality (VR) and augmented reality (AR). This trio forms what is called an XR environment. The present project focuses on the creation of a model involving artificial intelligence to analyze possible feelings of the coming from the player with the main parameter: the movement of the head.
 
-[![Capture Video](./img/ConcordAI-Logo.png)]
+![Capture Video](./img/Fig0.png)
 
 The Unity package can be download here :
 
@@ -25,6 +25,7 @@ Initially, the project focused on real-time recording of the movements of a play
 
 Figure 1 shows that there are peaks of speed as a function of time along a well-defined axis of rotation. These moments are in line with the appearance of a character in the scene. It is therefore possible to correlate a very high level of attention of a player in a scene by measuring the movements of the head. 
 Figure 1  - Speed head vs time around one axis 
+![Capture Video](./img/Fig1.png)
 
 ## Gaze perception
 
@@ -51,6 +52,8 @@ The neural network contains only 4 hidden layers, and after fine-tuning the hype
 Output layer:
 The output is a binary value created by the softmax function
 
+![Capture Video](./img/Fig2.png)
+
 ## Style Transfer Learning
 
 Finally, a second method related to artificial intelligence was used in this project. Although it is not related to the main subject of head movement analysis, it creates a very interesting effect within Unity. This method is known as Neural Style Transfer
@@ -59,6 +62,7 @@ The principle of neural style transfer is to define two distance functions, one 
 
 Below, a picture of Chicago before and after the neural style transfer by « the scream » paint.
 Figure 3 - Picture before and after style transfer learning
+![Capture Video](./img/Fig3.png) ![Capture Video](./img/Fig4.png)
   
 
 ## Unity Integration 
@@ -66,6 +70,7 @@ Figure 3 - Picture before and after style transfer learning
 The integration of the project consisted of three scenarios. The first part put the player face to a Boolean choice. This one could choose to open the doors and continue the game. For this, an ML algorithm studies the answer and according to the percentage of confidentiality executes an action. In the second scenario, different works of art were exhibited and according to the time spent on each of the works a score was calculated. The interface then asked specific questions depending on what was viewed. In the last scenario, the project wants to make the transfer learning technique interactive. For that, 3 questions were asked to know if the player wanted to place objects in the table or not. According to these answers, the final table will evolve.
 
 Figure 4 & 5 - Screenshots of the secenario
+![Capture Video](./img/Fig5.png) ![Capture Video](./img/Fig6.png)
                        
 ## Lessons learned
 
