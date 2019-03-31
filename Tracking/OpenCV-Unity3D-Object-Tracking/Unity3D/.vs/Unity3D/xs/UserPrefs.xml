@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7214E491-EE9D-B906-A42D-2F3EA3DCD8FE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Serializer.cs">
+    <Files>
+      <File FileName="Assets/JsonCharacterSaver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SaveData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Serializer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
