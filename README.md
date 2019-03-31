@@ -2,8 +2,11 @@
 
 As part of a partnership with Ubisoft and Galilei, the proposed mandate was based on the integration of artificial intelligence (AI) into an environment using virtual reality (VR) and augmented reality (AR). This trio forms what is called an XR environment. The present project focuses on the creation of a model involving artificial intelligence to analyze possible feelings of the coming from the player with the main parameter: the movement of the head.
 
+[![Capture Video](./img/ConcordAI-Logo.png)]
+
 The Unity package can be download here :
 
+https://drive.google.com/open?id=1_Wyussq6genP0pa9YU76bID3O5P-T_5O
 
 ## context 
 
@@ -21,8 +24,7 @@ In the same logic, the following hypothesis has been formulated: By measuring th
 Initially, the project focused on real-time recording of the movements of a player's head in a known and controlled environment in Unity. The environment was the projection of a video in which the player was in a wheat field. Surprisingly, a person appeared in the scene and was getting closer and closer to the player in order to create a feeling of stress and fear. 
 
 Figure 1 shows that there are peaks of speed as a function of time along a well-defined axis of rotation. These moments are in line with the appearance of a character in the scene. It is therefore possible to correlate a very high level of attention of a player in a scene by measuring the movements of the head. 
-Figure 1  - Speed head vs time around one axis
- 
+Figure 1  - Speed head vs time around one axis 
 
 ## Gaze perception
 
