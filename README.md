@@ -1,4 +1,4 @@
-# ConcorAI_Ubisoft_Research
+# ConcordAI_Ubisoft_Research
 
 As part of a partnership with Ubisoft and Galilei, the proposed mandate was based on the integration of artificial intelligence (AI) into an environment using virtual reality (VR) and augmented reality (AR). This trio forms what is called an XR environment. The present project focuses on the creation of a model involving artificial intelligence to analyze possible feelings of the coming from the player with the main parameter: the movement of the head.
 
@@ -62,15 +62,18 @@ The principle of neural style transfer is to define two distance functions, one 
 
 Below, a picture of Chicago before and after the neural style transfer by « the scream » paint.
 Figure 3 - Picture before and after style transfer learning
-![Capture Video](./img/Fig3.png) ![Capture Video](./img/Fig4.png)
+
+![Capture Video](./img/Fig3.png) 
+![Capture Video](./img/Fig4.png)
   
 
 ## Unity Integration 
 
 The integration of the project consisted of three scenarios. The first part put the player face to a Boolean choice. This one could choose to open the doors and continue the game. For this, an ML algorithm studies the answer and according to the percentage of confidentiality executes an action. In the second scenario, different works of art were exhibited and according to the time spent on each of the works a score was calculated. The interface then asked specific questions depending on what was viewed. In the last scenario, the project wants to make the transfer learning technique interactive. For that, 3 questions were asked to know if the player wanted to place objects in the table or not. According to these answers, the final table will evolve.
-
 Figure 4 & 5 - Screenshots of the secenario
-![Capture Video](./img/Fig5.png) ![Capture Video](./img/Fig6.png)
+
+![Capture Video](./img/Fig5.png) 
+![Capture Video](./img/Fig6.png)
                        
 ## Lessons learned
 
